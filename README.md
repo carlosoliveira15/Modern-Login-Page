@@ -5,7 +5,7 @@
 
 ![Screenshot of how the project looks like](/Modern%20Login%20Page%20image.png)
 
-This is a simple project, just for sharing my development with hmtl & css. Sharing the process, sharing my experience, so I can reach new people and explore the world of developers. 
+This is a simple project, just for sharing my practice of html and css! 
 
 ### Technologies 
 
